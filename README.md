@@ -3,3 +3,6 @@ This is for the in class activity in CS3650.
 
 rt343114@ohio.edu 
 Ryan Tamasovich
+
+jw363912
+Jordan Ward
